@@ -1,4 +1,3 @@
-
 const Service = require('./src/service');
 const sinon = require('sinon');
 const { deepStrictEqual } = require('assert');
